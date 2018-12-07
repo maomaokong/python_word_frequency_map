@@ -1,0 +1,30 @@
+{
+  "APP_NAME":"Word_Frequency_Map",
+  "VERSION":"0.1.0",
+  "ENVIRONMENT_REMARK":"TBD",
+  "ENVIRONMENT_OPTION":"1-UAT; 9-PROD",
+  "ENVIRONMENT":1,
+  "PATHS":{
+    "SOURCE_CODE":"src",
+    "DATA":"data",
+    "LOG":"log",
+    "TEST":"test",
+    "FONT":"/usr/share/fonts/TTF"
+  },
+  "DATA":{
+    "HM":"4.13.c01.Data_cleaned_hm.csv",
+    "DG":"4.13.c01.Data_demographic.csv"
+  },
+  "FONTS":{
+    "ARIAL":"arial.ttf"
+  },
+  "LIMIT_WORDS":[
+        "happy", "day", "got", "today", "one", "yesterday", "went", "long", "outside", "without", "feeling", "makes"
+        , "enjoyed", "enjoy", "started", "well", "really", "big", "done", "made", "new", "feel", "two", "came", "us"
+        , "alway", "minute", "another", "look", "little", "will", "lot", "morning", "finally", "last", "able", "good"
+        , "found", "going", "time", "see", "week", "hour", "felt", "getting", "first", "month", "first", "thing"
+        , "night", "great", "nice", "great", "go", "saw", "back", "year", "now", "much", "said", "make", "watched"
+        , "received", "watching", "ate", "several", "fews", "around", "even", "every", "next", "many", "almost"
+        , "wanted", "left", "thought", "actually", "amazing", "end", "took", "way", "ing", "need"
+  ]
+}
